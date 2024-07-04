@@ -1,5 +1,3 @@
-![Cover image](https://github.com/YeghiazarianVahe/YeghiazarianVahe/blob/main/background.jpg)
-
 <h1 align="center">Hi 👋, I'm Vahe Yeghiazarian</h1>
 <h3 align="center">Computer Science Student | Aspiring Machine Learning Engineer</h3>
 
